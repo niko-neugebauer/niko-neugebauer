@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niko-neugebauer
+- 👋 Hi, I’m @niko-neugebauer and I work on Azure SQL Managed Instance (#azuresql #sqlmi)
 - 👀 I’m interested in Databases and Performance
 - 🌱 I’m currently learning A LOT OF STUFF :)
 
